@@ -1,2 +1,2 @@
 # WeatherHelper
-Weather teller dekstop application using python, tkinter and openai api
+Simple Weather teller command line application using python and Open Weather api
